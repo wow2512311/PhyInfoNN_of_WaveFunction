@@ -1,7 +1,7 @@
 # **PhyInfoNN_of_WaveFunction**
  Physics-informed Neural Network Based on Wave Function for Low-dimensional Interface
 
-# **repository Structure**
+# **Repository Structure**
  cif_to_crystal_graph_jarvis.py creates crystal graphs.
 
  graph_dataset.py creates a dataset based on the generated graph.
@@ -14,4 +14,4 @@
 
  basegnn contains all trained basic gnn model.
 
- The model of wave function depiction network needs to be trained on the code of repository ** depict-wavefunctions **.
+ The model of wave function depiction network needs to be trained on the code of repository ** depict-wavefunctions **. https://github.com/wow2512311/depict-wavefunctions
